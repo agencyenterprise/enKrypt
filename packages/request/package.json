@@ -22,7 +22,7 @@
     "json-rpc-2.0": "^1.7.0",
     "node-fetch": "^2.7.0",
     "reconnecting-websocket": "^4.4.0",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.0",
     "ws": "^8.16.0"
   },
   "devDependencies": {

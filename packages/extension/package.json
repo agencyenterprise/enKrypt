@@ -61,7 +61,7 @@
     "qrcode.vue": "^3.4.1",
     "switch-ts": "^1.1.1",
     "url-parse": "^1.5.10",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.0",
     "vue": "^3.4.21",
     "vue-echarts": "6.6.9",
     "vue-router": "4.3.0",
